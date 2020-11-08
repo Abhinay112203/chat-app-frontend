@@ -1,0 +1,6 @@
+.main-app{
+  padding: 0 15px;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+}

@@ -1,0 +1,11 @@
+.join-main-container{
+    width: fit-content;
+    padding: 10px 15px;
+    background-color: rgb(205, 79, 211);
+    color: rgba(123, 35, 35, 0.871);
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
